@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾 About Me:
 Started to code in 2021, eager to learn since 😄 <br>First year of CS ✔️ <br>Currently interested in frontend and AI 🤖<br>Working on my PHP and ML skills 🤟
 
 
