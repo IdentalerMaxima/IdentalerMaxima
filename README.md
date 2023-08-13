@@ -1,5 +1,5 @@
 # 👾 About Me:
-Started to code in 2021, eager to learn since 😄 <br>First year of CS ✔️ <br>Interested in frontend and AI 🤖<br>Working on my PHP and ML skills 🤟<br>
+Started to code in 2021, eager to learn since 😄 <br>Year 2/3 of CS ✔️ <br>Interested in frontend and AI 🤖<br>Working on my PHP and ML skills 🤟<br>
 Currently working as a PHP developer 🫡
 
 # 💻 Tech Stack:
